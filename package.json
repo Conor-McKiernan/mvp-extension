@@ -9,7 +9,10 @@
   "author": "Conor McKiernan",
   "license": "UNLICENSED",
   "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.5.0",
     "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "ts-loader": "^9.4.2",
     "typescript": "^4.9.4",
     "webpack": "^5.75.0",
